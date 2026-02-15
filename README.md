@@ -1,7 +1,7 @@
 # EmoBert: Fine-tuning BERT for Emotion Detection
 
 A comprehensive end-to-end pipeline for fine-tuning BERT-uncased on multi-class emotion detection :D
-(Course assignment by team LinguaDominos)
+#### Course assignment by team LinguaDominos
 
 ## Table of Contents
 
