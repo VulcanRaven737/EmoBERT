@@ -13,7 +13,7 @@ A comprehensive end-to-end pipeline for fine-tuning BERT-uncased on multi-class 
 
 ### 1. Data Processing
 
-- **Dataset**: Shreyas Pullehf Emotion Dataset (100k samples, 20 emotion classes)
+- **Dataset**: shreyaspullehf/emotion_dataset_100k (90k samples, 10 emotion classes)
 - **Train/Val/Test Split**: Stratified 80/10/10 split to maintain class balance across partitions
 - **Preprocessing**:
   - Auto-detection of text and label columns from dataset schema
