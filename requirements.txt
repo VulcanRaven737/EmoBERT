@@ -1,0 +1,1 @@
+pip install torch transformers datasets scikit-learn numpy pandas matplotlib seaborn
